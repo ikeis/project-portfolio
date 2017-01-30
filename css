@@ -1,0 +1,11 @@
+body {postion: relevant;}
+nav{background-color: orange;}
+div.Sektor {padding-top:100px; padding-bottom: 300px;}
+
+
+h2.subhead {color: orange; text-shadow:5px 5px 10px black; font-weight: bold;}
+
+#Home {border-left: 8px solid orange; border-bottom: 8px solid orange;}
+#AboutMe {border-right: 8px solid orange; border-bottom: 8px solid orange;}
+#Porto1{border-left: 8px solid orange; border-bottom: 8px solid orange;}
+#Contact1 {border-right: 8px solid orange; border-bottom: 8px solid orange;}
